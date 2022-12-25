@@ -1,0 +1,2 @@
+BOT_API_TOKEN = ''
+WEATHER_API_KEY = ''
